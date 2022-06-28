@@ -1,0 +1,1 @@
+# staruml-app-asar
