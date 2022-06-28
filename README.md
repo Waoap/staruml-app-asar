@@ -1,4 +1,4 @@
-# app.asar File for StarUML
+# app.asar File for StarUML (version: v502.0.1)
 
 A customized version of `app.asar` file for [**StarUML**](https://staruml.io/) program.
 

@@ -1,4 +1,4 @@
-# app.asar File for StarUML
+# app.asar File for StarUML (version: v502.0.1)
 
 [**StarUML**](https://staruml.io/) 程序的 `app.asar` 文件的定制版。
 
